@@ -8,6 +8,7 @@ public class Practice1Test {
 public void practice1Test() {
 	System.out.println("test1--->class1");
 	//Commenting this line
+	System.out.println("Checking Github repository practice");	
 }
 
 @Test
