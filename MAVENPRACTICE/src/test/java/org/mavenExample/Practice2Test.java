@@ -7,6 +7,7 @@ public class Practice2Test {
 @Test
 public void practice1Test() {
 	System.out.println("test1--->class2");
+	//Adding this line to test
 }
 
 @Test
