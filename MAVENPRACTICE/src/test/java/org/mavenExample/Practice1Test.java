@@ -13,6 +13,7 @@ public void practice1Test() {
 @Test
 public void practice2Test() {
 	System.out.println("test2--->class1");
+	System.out.println("Checking Github repository practice");
 }
 
 @Test
