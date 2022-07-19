@@ -14,7 +14,6 @@ public void practice1Test() {
 public void practice2Test() {
 	System.out.println("test2--->class1");
 	System.out.println("Checking Github repository practice");
-	//Adding few more lines to github for testing and checking
 }
 
 @Test
