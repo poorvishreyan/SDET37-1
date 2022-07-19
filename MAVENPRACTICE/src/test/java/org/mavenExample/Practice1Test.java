@@ -7,6 +7,7 @@ public class Practice1Test {
 @Test
 public void practice1Test() {
 	System.out.println("test1--->class1");
+	System.out.println("Checking Github repository");
 }
 
 @Test
